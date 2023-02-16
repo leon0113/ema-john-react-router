@@ -21,3 +21,21 @@
     justify-content: space-between;
 
 }
+
+.delete-container{
+display: flex;
+align-items: center;
+}
+
+.review-items .delete-button{
+    background: rgb(236, 177, 177);
+    border: 0;
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+}
+
+.delete-icon{
+    color: rgb(236, 78, 78);
+    font-size: 30px;
+}
